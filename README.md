@@ -1,13 +1,14 @@
 🌦️ Rain Forecast Dashboard
 
-A simple and user-friendly weather forecasting dashboard built with Streamlit, designed to help farmers, citizens, and students view rain forecast, temperature trends, flood risk, radar data, and get agriculture advice.
+A simple and user-friendly weather forecasting dashboard built with Streamlit, designed to help farmers, citizens, and students view rain forecasts, temperature trends, flood risk, radar data, and get AI-powered agriculture advice.
+
+
+---
 
 🌍 Live Demo
 
 👉 https://rainbot-9uzk6q7m4z79fjlixhzwwq.streamlit.app/
 
-
----
 
 ---
 
@@ -21,7 +22,10 @@ Past & upcoming rainfall predictions
 
 Temperature variations
 
-Weather trends for the next 7 days
+7-day weather trends
+
+
+Clean UI for quick insights.
 
 
 
@@ -29,9 +33,9 @@ Weather trends for the next 7 days
 
 🌧️ Hourly Rain & Temperature
 
-Interactive line chart
+Interactive line charts
 
-Rain (mm)
+Rainfall (mm)
 
 Temperature (°C)
 
@@ -43,11 +47,11 @@ Smooth visualization for hourly weather fluctuations
 
 🌡️ Daily Temperature Range
 
-Shows daily min and max temperature
+Shows daily minimum and maximum temperature
 
 Helpful for agriculture planning
 
-Clean charts for quick understanding
+Clear visual charts
 
 
 
@@ -55,17 +59,17 @@ Clean charts for quick understanding
 
 📊 Daily Summary Table
 
-Displays:
+Shows all key weather details:
 
-Date
+📅 Date
 
-Rainfall (mm)
+🌧️ Rainfall (mm)
 
-Temperature Min (°C)
+🌡️ Temp Min (°C)
 
-Temperature Max (°C)
+🔥 Temp Max (°C)
 
-Maximum Wind (km/h)
+💨 Max Wind (km/h)
 
 
 
@@ -73,7 +77,7 @@ Maximum Wind (km/h)
 
 🚨 Flood Risk Indicator
 
-Color-coded flood risk alert:
+Color-coded flood alert:
 
 🟢 Low
 
@@ -82,6 +86,8 @@ Color-coded flood risk alert:
 🔴 High
 
 
+Helps users prepare for heavy rainfall.
+
 
 ---
 
@@ -89,44 +95,43 @@ Color-coded flood risk alert:
 
 Provides:
 
-Smart agricultural advice
+Smart agriculture advice
 
 Irrigation scheduling
 
-Fertilizer planning tips
+Fertilizer planning
 
-Weather-aware suggestions
+Real-time weather-aware suggestions
+🎧 Includes audio playback for farmers
 
-
-Includes audio playback for farmer convenience.
 
 
 ---
 
 🎤 Ask by Voice
 
-Upload voice command (WAV/MP3/M4A/OGG)
-
-RainBot answers your voice queries
-
+Upload voice command:
+WAV / MP3 / M4A / OGG
+RainBot listens → understands → responds.
 
 
 ---
 
 💬 RainBot Chat
 
-Ask any weather-related or farming question via text.
+Ask any farming or weather-related question.
+Get instant AI-powered answers.
 
 
 ---
 
 🛰️ Weather Radar (RainViewer)
 
-Shows live precipitation radar map
+Live precipitation radar map
 
-Helps track rainfall movement
+Track real-time rainfall movement
 
-Interactive zoomable map
+Fully interactive + zoomable
 
 
 
@@ -135,17 +140,17 @@ Interactive zoomable map
 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
+![OpenWeather API](https://img.shields.io/badge/OpenWeather-FF8C00?logo=icloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?logo=leaflet&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT_API-00A67E?logo=openai&logoColor=white)
 
-Streamlit
 
-OpenWeather/Fast API (if integrated)
+---
 
-Plotly / Matplotlib
+🎯 Purpose
 
-Leaflet.js (via Streamlit iframe)
-
-ChatGPT API or LLM model for advisory bot
-
-Purpose:
-To provide a simple and accurate weather dashboard that helps users—especially farmers—check rain forecasts, temperature trends, flood risk, and receive AI-based farming advice.
-
+To provide a simple, accurate, and accessible weather dashboard that helps users—especially farmers—track rainfall, temperature trends, flood risks, and receive AI-based farming guidance to improve decision-making.
