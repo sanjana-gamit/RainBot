@@ -3,6 +3,16 @@
 A simple and user-friendly weather forecasting dashboard built with Streamlit, designed to help farmers, citizens, and students view rain forecasts, temperature trends, flood risk, radar data, and get AI-powered agriculture advice.
 
 
+🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
+![OpenWeather API](https://img.shields.io/badge/OpenWeather-FF8C00?logo=icloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?logo=leaflet&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT_API-00A67E?logo=openai&logoColor=white)
 ---
 
 🌍 Live Demo
@@ -136,17 +146,6 @@ Fully interactive + zoomable
 
 
 ---
-
-🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
-![OpenWeather API](https://img.shields.io/badge/OpenWeather-FF8C00?logo=icloud&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?logo=leaflet&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT_API-00A67E?logo=openai&logoColor=white)
 
 
 
