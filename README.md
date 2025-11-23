@@ -148,31 +148,7 @@ Fully interactive + zoomable
 ![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?logo=leaflet&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT_API-00A67E?logo=openai&logoColor=white)
 
-## 📸 Screenshots
 
-### 🌍 Home Dashboard
-![Home Dashboard](https://via.placeholder.com/1000x500.png?text=Dashboard+Screenshot)
-
----
-
-### 🌧️ Hourly Rain & Temperature Chart
-![Hourly Chart](https://via.placeholder.com/1000x500.png?text=Hourly+Weather+Chart)
-
----
-
-### 📊 Daily Summary Table
-![Daily Summary](https://via.placeholder.com/1000x500.png?text=Daily+Summary+Table)
-
----
-
-### 🤖 RainBot Advisory Assistant
-![Advisory Chat](https://via.placeholder.com/1000x500.png?text=RainBot+Advisory)
-
----
-
-### 🛰️ Live Weather Radar
-![Weather Radar](https://via.placeholder.com/1000x500.png?text=Weather+Radar+Map)
----
 
 🎯 Purpose
 
